@@ -1,12 +1,4 @@
-.icon-nav {
-    background-image: url("img/versia.icon.new.png");
-    position: relative;
-    bottom: 3em;
-    z-index: -1px;
-}
-
 .img-head-body {
-    background-image: url("img/oculus-head.jpg");
     background-repeat: no-repeat;
     margin: 1px;
 }
