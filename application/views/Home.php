@@ -22,7 +22,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 <body>
 	<nav class="navbar navbar-expand-lg navbar-light bg-light">
 		<div class="container-fluid">
-			<a class="navbar-brand" href="<?php echo base_url() ?>"><img src="./img/versia.icon.new.png" alt="" width="10%"></a>
+			<a class="navbar-brand" href="<?php echo base_url() ?>"><img src="./img/versia.icon.new.png" alt="" width="16%"></a>
 			<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="navbar-toggler-icon"></span>
 			</button>
@@ -45,10 +45,37 @@ defined('BASEPATH') or exit('No direct script access allowed');
 		</div>
 	</nav>
 
-	<div class="img-head-body">
+	<div class="container-fluid">
+		<div class="row">
+			<img src="./img/oculus-head.jpg" alt="" width="100%">
+		</div>
+		<br>
+		<div class="row">
+			<div class="col">
+
+			</div>
+			<div class="col">
+				<h5 class="text-center">Oficina Equipada</h5>
+				<img src="./img/oficina_equipada.gif" alt="" width="100%">
+			</div>
+			<div class="col s">
+				<h5 class="text-center">Arriendo de Equipos de Realidad Virtual</h5>
+				<img src="./img/arriendo_equipos.gif" alt="" width="100%">
+			</div>
+			<div class="col">
+				<h5 class="text-center">Armado de PC Gamer</h5>
+				<img src="./img/armado_gamer.gif" alt="" width="100%">
+			</div>
+			<div class="col">
+				<h5 class="text-center">Venta de Insumos</h5>
+				<img src="./img/venta_insumos.gif" alt="" width="100%">
+			</div>
+			<div class="col">
+
+			</div>
+		</div>
 
 	</div>
-
 
 	<div class="jumbotron jumbotron-fluid">
 		<div class="container">
